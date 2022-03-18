@@ -18,3 +18,11 @@ A keyword called let was introduced in ES6, a major update to JavaScript, to sol
 
 If you replace var with let in the code above, it results in an error:
 
+let camper = "James";
+let camper = "David";
+The error can be seen in your browser console.
+
+So unlike var, when you use let, a variable with the same name can only be declared once.
+
+Update the code so it only uses the let keyword.
+
