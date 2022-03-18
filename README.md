@@ -17,3 +17,4 @@ In a small application, you might not run into this type of problem. But as your
 A keyword called let was introduced in ES6, a major update to JavaScript, to solve this potential issue with the var keyword. You'll learn about other ES6 features in later challenges.
 
 If you replace var with let in the code above, it results in an error:
+
