@@ -10,3 +10,6 @@ console.log(camper);
 
 
 In the code above, the camper variable is originally declared as James, and is then overridden to be David. The console then displays the string David.
+
+
+In a small application, you might not run into this type of problem. But as your codebase becomes larger, you might accidentally overwrite a variable that you did not intend to. Because this behavior does not throw an error, searching for and fixing bugs becomes more difficult.
