@@ -7,3 +7,5 @@ One of the biggest problems with declaring variables with the var keyword is tha
 var camper = "James";
 var camper = "David";
 console.log(camper);
+
+
