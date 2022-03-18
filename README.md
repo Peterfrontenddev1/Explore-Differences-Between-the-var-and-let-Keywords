@@ -28,5 +28,6 @@ Update the code so it only uses the let keyword.
 
                ANSWER
                
-               
+     let catName = "Oliver";
+     let catSound = "Meow!";          
          
