@@ -26,3 +26,7 @@ So unlike var, when you use let, a variable with the same name can only be decla
 
 Update the code so it only uses the let keyword.
 
+               ANSWER
+               
+               
+         
